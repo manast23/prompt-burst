@@ -1,0 +1,5 @@
+{
+  "name": "PromptBurst: Multi-Image Gen & Edit",
+  "description": "Generate multiple images simultaneously from a list of prompts and edit them with AI. Powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
